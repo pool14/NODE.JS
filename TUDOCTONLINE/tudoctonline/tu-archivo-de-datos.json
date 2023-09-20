@@ -1,0 +1,53 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Lopez",
+      "email": "juan@gmail.com",
+      "password": "lopez",
+      "confirmar": "lopez234"
+    },
+    {
+      "nombre": "jeanpool lopez",
+      "email": "jeanpoollopez@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "nombre": "jose lopez",
+      "email": "jose@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "Medicos": [
+    {
+      "id": 1,
+      "nombre": "Juan valencia",
+      "email": "valencia@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "Citas": [
+    {
+      "fecha": "2023-09-20",
+      "hora": "14:00",
+      "nombre": "Juan valencia",
+      "numeroCita": "1029141 ",
+      "paciente": "jose lopez",
+      "id": 1
+    }
+  ],
+  "CitasAgendadas": [
+    {}
+  ],
+  "CitasEditar": [
+    {
+      "fecha": "2023-09-20",
+      "hora": "10:20",
+      "nombre": "12:00",
+      "id": 1
+    }
+  ]
+}
